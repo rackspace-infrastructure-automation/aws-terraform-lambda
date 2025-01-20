@@ -1,3 +1,6 @@
+> [!CAUTION]
+> This project is end of life. This repo will be deleted on June 2nd 2025.
+
 # aws-terraform-lambda
 This module is currently a skeleton awaiting functionality built in terraform 0.12.0
 This module sets up a lambda function.
